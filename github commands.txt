@@ -1,1 +1,9 @@
 github commands.
+
+1. git init (create a new Git repository locally)
+2. git remote add origin (https link) https://github.com/staceybychowsky-bot/git-practice-1.git
+3. git remote -v (to check connection)
+4. git add . 
+5. git commit -m "this is first commit"
+6. git push -u origin master
+
